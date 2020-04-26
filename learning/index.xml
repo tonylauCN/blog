@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ryuu的个人Blog</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>ryuu的个人Blog</description>
+    <title>学习笔记 | ryuu的个人Blog</title>
+    <link>/learning/</link>
+      <atom:link href="/learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>学习笔记</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>ryuu的个人Blog</title>
-      <link>/</link>
+      <url>/img/headers/learning/learning.jpg</url>
+      <title>学习笔记</title>
+      <link>/learning/</link>
     </image>
     
     <item>

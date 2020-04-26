@@ -4,6 +4,42 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-04-26T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/</loc>
+    <lastmod>2020-04-26T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/architecture/</loc>
+    <lastmod>2020-04-26T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/middleware/</loc>
+    <lastmod>2018-11-21T19:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/infrastructure/</loc>
+    <lastmod>2018-11-21T19:50:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/system/</loc>
+    <lastmod>2018-11-04T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/tools/</loc>
+    <lastmod>2018-09-09T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learning/network/</loc>
+    <lastmod>2018-09-09T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -12,14 +48,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/nelson-bighetti/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>
@@ -35,7 +63,15 @@
   </url>
   
   <url>
+    <loc>/author/ryuu.kk/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
   </url>
   
 </urlset>
