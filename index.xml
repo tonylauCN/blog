@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ryuu的个人Blog</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tonylaucn.github.io/blog/</link>
+      <atom:link href="https://tonylaucn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>ryuu的个人Blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0800</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://tonylaucn.github.io/blog/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ryuu的个人Blog</title>
-      <link>/</link>
+      <link>https://tonylaucn.github.io/blog/</link>
     </image>
     
     <item>
       <title>架构</title>
-      <link>/learning/architecture/</link>
+      <link>https://tonylaucn.github.io/blog/learning/architecture/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0800</pubDate>
-      <guid>/learning/architecture/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/architecture/</guid>
       <description>&lt;h3 id=&#34;cloud-native学习笔记httpsskyaoiolearning-cloudnative&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-cloudnative/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Native学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;云原生技术有利于各组织在公有云、私有云和混合云等新型动态环境中，构建和运行可弹性扩展的应用。云原生的代表技术包括容器、服务网格、微服务、不可变基础设施和声明式API。&lt;/p&gt;
@@ -44,9 +44,9 @@
     
     <item>
       <title>中间件</title>
-      <link>/learning/middleware/</link>
+      <link>https://tonylaucn.github.io/blog/learning/middleware/</link>
       <pubDate>Wed, 21 Nov 2018 19:50:00 +0800</pubDate>
-      <guid>/learning/middleware/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/middleware/</guid>
       <description>&lt;h3 id=&#34;服务注册学习笔记httpsskyaoiolearning-serviceregistry&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-serviceregistry/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;服务注册学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;服务注册和服务发现是服务化、微服务框架的基石。&lt;/p&gt;
@@ -55,9 +55,9 @@
     
     <item>
       <title>基础设施</title>
-      <link>/learning/infrastructure/</link>
+      <link>https://tonylaucn.github.io/blog/learning/infrastructure/</link>
       <pubDate>Wed, 21 Nov 2018 19:50:00 +0800</pubDate>
-      <guid>/learning/infrastructure/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/infrastructure/</guid>
       <description>&lt;h3 id=&#34;kubernetes学习笔记httpsskyaoiolearning-kubernetes&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-kubernetes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kubernetes学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Kubernetes是谷歌开源的容器集群管理系统,是Google多年大规模容器管理技术Borg的开源版本,也是CNCF最重要的项目之一。Kubernetes发展非常迅速,已经成为容器编排领域的领导者。&lt;/p&gt;
@@ -69,9 +69,9 @@
     
     <item>
       <title>系统</title>
-      <link>/learning/system/</link>
+      <link>https://tonylaucn.github.io/blog/learning/system/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0800</pubDate>
-      <guid>/learning/system/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/system/</guid>
       <description>&lt;h3 id=&#34;linux-mint学习笔记httpsskyaoiolearning-linux-mint&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-linux-mint/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linux Mint学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Linux Mint是基于Debian和Ubuntu的 Linux 发行版，对用户友好而功能强大，非常适合作为日常主力操作系统使用。这份学习笔记, 记录Linux Mint (Linux Mint 19 Cinnamon 版本) 的学习过程和日常使用。&lt;/p&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>工具</title>
-      <link>/learning/tools/</link>
+      <link>https://tonylaucn.github.io/blog/learning/tools/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
-      <guid>/learning/tools/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/tools/</guid>
       <description>&lt;h3 id=&#34;hugo学习笔记httpsskyaoiolearning-hugo&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。&lt;/p&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title>网络</title>
-      <link>/learning/network/</link>
+      <link>https://tonylaucn.github.io/blog/learning/network/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
-      <guid>/learning/network/</guid>
+      <guid>https://tonylaucn.github.io/blog/learning/network/</guid>
       <description>&lt;h3 id=&#34;cilium学习笔记httpsskyaoiolearning-cilium&#34;&gt;
 &lt;a href=&#34;https://skyao.io/learning-cilium/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cilium学习笔记&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Cilium是一个开源软件，用于透明地提供和保护使用Kubernetes，Docker和Mesos等Linux容器管理平台部署的应用程序服务之间的网络和API连接。&lt;/p&gt;

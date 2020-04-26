@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryuu.kk | ryuu的个人Blog</title>
-    <link>/author/ryuu.kk/</link>
-      <atom:link href="/author/ryuu.kk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tonylaucn.github.io/blog/author/ryuu.kk/</link>
+      <atom:link href="https://tonylaucn.github.io/blog/author/ryuu.kk/index.xml" rel="self" type="application/rss+xml" />
     <description>Ryuu.kk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language>
     <image>
-      <url>/author/ryuu.kk/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://tonylaucn.github.io/blog/author/ryuu.kk/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Ryuu.kk</title>
-      <link>/author/ryuu.kk/</link>
+      <link>https://tonylaucn.github.io/blog/author/ryuu.kk/</link>
     </image>
     
   </channel>
