@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ryuu.kk
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 中年码农
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "我目前研究的方向主要在微服务架构/Microservice、云原生技术/Cloud Natice、服务网格/Servicemesh、无服务架构/Serverless等相关领域"
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 微服务/micro service
+- 服务网格/servicemesh
+- 无服务架构/serverless
+- 云原生技术/cloud native
+- 敏捷技术/devops
+- golang语言
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +56,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/tonylauCN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
